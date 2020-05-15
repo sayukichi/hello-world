@@ -1,18 +1,3 @@
-# hello-world
-GITを覚えるためにつくったよ～
-
-I Like :coffee::mouse::heart::heart::heart::heart:,
-
-My hobbies are Kyogen and Iai.
-
-I love animals.
-
-I'm a 3DCG designer and illustrator.
-
-I'm studying scripting and github.
-
-Please be nice to me!
-
 1、体験テキストを楽しくするにはどんな機能をいれればいいか(実装できるできないに限らず書いていく)
 
 初めての体験で手軽にできそうなもの
@@ -141,4 +126,22 @@ https://www.wiw-game.com/
 じゃんけんのような相性を設ける。
 
 あえて制限をもうける、緊張、偶然のギャンブル要素など
+
+
+
+---------------------------------------
+# hello-world
+GITを覚えるためにつくったよ～
+
+I Like :coffee::mouse::heart::heart::heart::heart:,
+
+My hobbies are Kyogen and Iai.
+
+I love animals.
+
+I'm a 3DCG designer and illustrator.
+
+I'm studying scripting and github.
+
+Please be nice to me!
 
